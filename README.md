@@ -1,5 +1,6 @@
 # DoublePendulumPython
 Python simulation of a double pendulum with dynamic graphics of the velocity and angle.
+
 TODO : add the energy curve & friction coefficient
 
 
